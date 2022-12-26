@@ -1,0 +1,28 @@
+{
+  "name": "zavrsniprojekat-cypress",
+  "version": "1.0.0",
+  "description": "zavrsni projekat",
+  "main": "index.js",
+  "scripts": {
+    "test": "\"cypress\":\"cypress open\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/A7m1r/zavrsniProjekatCypres.git"
+  },
+  "keywords": [
+    "cypress"
+  ],
+  "author": "almirD",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/A7m1r/zavrsniProjekatCypres/issues"
+  },
+  "homepage": "https://github.com/A7m1r/zavrsniProjekatCypres#readme",
+  "dependencies": {
+    "cypress": "^12.2.0"
+  },
+  "devDependencies": {
+    "@faker-js/faker": "^7.6.0"
+  }
+}
