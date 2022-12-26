@@ -1,4 +1,3 @@
-import { faker } from "@faker-js/faker"
 import { addBoard } from "./pageObjects/addBoard"
 import { loginPage } from "./pageObjects/loginPage"
 
