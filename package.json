@@ -4,11 +4,13 @@
   "description": "zavrsni projekat",
   "main": "index.js",
   "scripts": {
-    "test": "\"cypress\":\"cypress open\""
+    "test": {
+      "cypress":"cypress open"
+    }
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/A7m1r/zavrsniProjekatCypres.git"
+    "url": "https://github.com/A7m1r/zavrsniProjekatCypres.git"
   },
   "keywords": [
     "cypress"
